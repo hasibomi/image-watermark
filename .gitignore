@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+DS_Store
+__MACOSX__
+__MACOS__
+assets
+env
